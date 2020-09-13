@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Jinghui Liu is currently a graduate student in <a href="https://web.mit.edu/physics/">Department of Physics, MIT</a>. She joined in the department in 2016 after completing her undergraduate training at <a href="http://english.pku.edu.cn">Peking University</a> with a Bachelor's degree of Science in Physics.
+Jinghui Liu is currently a graduate student in <a href="https://web.mit.edu/physics/">Department of Physics, MIT</a>. She started in the department in 2016, after completing her undergraduate training at <a href="http://english.pku.edu.cn">Peking University</a> with a Bachelor's degree of Science in Physics.
 
 She joined in <a href="https://www.fakhrilab.com">Fakhri Lab</a> located in <a hef="https://cpls.scripts.mit.edu/wordpress/">Physics of Living Systems Center</a> since 2017, and has been working on a series of intriguing projects at the crossing of living systems and non-equilibrium physics. 
 
