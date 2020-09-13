@@ -2,6 +2,6 @@
 layout: default
 ---
 
-## Research
+# Research
 
 [back to main page](./)
