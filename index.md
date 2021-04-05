@@ -12,9 +12,9 @@ Jinghui is the recipient of the 2016-2017 Morton E. Goulder Presidential fellows
 
 (<a href="{{ site.baseurl }}/pdfs/CV-Jinghui Liu-May 1 2020.pdf">CV</a>).
 
-## Topological defects on membrane of a living cell
+## Broadcast
 
-Defects are ...
+Check her participance in <a href="http://meetings.aps.org/Meeting/MAR21/Session/Y11.12">APS 2021 (virtual)</a>.
 
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.

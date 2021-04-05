@@ -4,19 +4,18 @@ layout: default
 
 # Publications
 
-<h3>Topological braiding and bosonic phases on the cell membrane</h3>
+<h3>Topological braiding and virtual particles on the cell membrane</h3>
 
-   **J. Liu**, J. F. Totz, P. W. Miller, J. Dunkel, N. Fakhri. 
+   **J. Liu**, J. F. Totz, P. W. Miller, A. D. Hastewell, J. Dunkel, N. Fakhri. 
     
-   In preparation
+   Submitted
 
 
-
-<h3>A hierarchy of protein patterns robustly decodes cell shape information</h3>
+<h3><a href="https://www.nature.com/articles/s41567-021-01164-9">A hierarchy of protein patterns robustly decodes cell shape information</a></h3>
 
    M. C. Wigbers<sup>1</sup>, T. H. Tan<sup>1</sup>, F. Brauns, **J. Liu**, S. Z. Swartz, E. Frey, N. Fakhri
     
-   Submitted 2020
+   Nature Physics 2021
 
 
 <h3><a href="https://www.nature.com/articles/s41567-020-0841-9">Topological turbulence in the membrane of a living cell</a></h3>
@@ -33,8 +32,7 @@ layout: default
     
    _Physics World (Frontier section): <a href="https://iopscience.iop.org/article/10.1088/2058-7058/33/5/6/pdf">Spiral patterns in cells could create biological computers</a>_
     
-   _MIT News: <a href="https://news.mit.edu/2020/growth-organism-waves-0323">The growth of an organism rides on a pattern of waves</a>_
-    
+   _MIT News: <a href="https://news.mit.edu/2020/growth-organism-waves-0323">The growth of an organism rides on a pattern of waves</a>_    
 
 
 <h3> <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002540">Resource availability modulates the cooperative and competitive nature of a microbial cross-feeding mutualism</a></h3>
