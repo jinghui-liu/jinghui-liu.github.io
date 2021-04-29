@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Topological defects on membrane of a living cell
-
-
+## Research
 
 [back to main page](./)

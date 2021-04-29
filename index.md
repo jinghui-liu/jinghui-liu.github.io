@@ -10,11 +10,11 @@ Check her published and ongoing works at [Publications](./pub-page.html), <a hre
 
 Jinghui is the recipient of the 2016-2017 Morton E. Goulder Presidential fellowship in MIT. She is a finalist for <a href="https://www.aps.org/units/gsnp/awards/student-speaker.cfm"> GSNP Student Speaker Award </a> at APS 2020 (virtual). More recently, she has been chosen to speak at the <a href="https://mrsec.uchicago.edu/education/for-our-research-community/rising-stars-in-soft-and-biological-matter/">Rising Stars in Soft and Biological Matter Symposium</a>, held by UChicago. In her free time she also works as a student member for MIT's departmental <a href="https://physrefs.mit.edu/about-us">Resources of Easing Friction and Stress</a>. 
 
-(<a href="{{ site.baseurl }}/pdfs/CV_JinghuiLiu_20210410.pdf">CV</a>).
+(<a href="{{ site.baseurl }}/pdfs/CV-Jinghui Liu-May 1 2020.pdf">CV</a>).
 
-## Broadcast
+## Topological defects on membrane of a living cell
 
-Check her participance in <a href="http://meetings.aps.org/Meeting/MAR21/Session/Y11.12">APS 2021 (virtual)</a>!
+Defects are ...
 
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.
