@@ -8,7 +8,7 @@ layout: default
 
    **J. Liu**, J. F. Totz, P. W. Miller, A. D. Hastewell, J. Dunkel, N. Fakhri. 
     
-   Submitted
+   In revision.
 
 
 <h3><a href="https://www.nature.com/articles/s41567-021-01164-9">A hierarchy of protein patterns robustly decodes cell shape information</a></h3>
