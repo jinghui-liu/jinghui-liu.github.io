@@ -14,7 +14,7 @@ Jinghui is the recipient of the 2016-2017 Morton E. Goulder Presidential fellows
 
 ## Broadcast
 
-Check her participance in <a href="http://meetings.aps.org/Meeting/MAR21/Session/Y11.12">APS 2021 (virtual)</a>.
+Check her participance in <a href="http://meetings.aps.org/Meeting/MAR21/Session/Y11.12">APS 2021 (virtual)</a>!
 
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.
