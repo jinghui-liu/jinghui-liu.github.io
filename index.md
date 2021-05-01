@@ -17,15 +17,19 @@ From a physicist's standpoint, living systems are marvelous constitutions of mol
 On the other hand, modern scientific advances have brought to our sight an unprecedented amount of exciting tools for quantitatively perturbing and alternating components of living systems and even with a spatiotemporal precision. The potential of combining a physics mindset and a biology toolset together to understand and even control complex dynamics in living systems has been my inspiration. Quoting P.W. Anderson, "At each level of complexity entirely new properties appear, and the understanding of the new behaviors requires research which I think I as fundamental in its nature as any other..."
 <br><br>
 
-I am currently a PhD student in Fakhri Lab at MIT, expecting graduation in 2022 summer. Combining tools of experiments, theory-driven analyses and numerical simulations, I took the sea star (_P. Miniata_) egg cell as a model system and studied <a href="\research-page.html">the organization principle of a developmental signaling process from a topological point of view</a>. Motivated by the information-processing nature of the biological process, we also explored and established <a href="\research-page.html">the close correspondence between information loss and the topologically-significant braiding dynamics</a>. On the tool development perspective, I have designed and implemented <a href="\research-page.html">an optogenetics system in the sea star egg cell to harness controlability in the mechanochemical machinary</a>. I plan to continue pursuit on this line of research interest, <a href="\research-page.html">potentially in more sophisciated biological and physical settings</a>.
+I am currently a PhD student in Fakhri Lab at MIT, expecting graduation in 2022 summer. Combining tools of experiments, theory-driven analyses and numerical simulations, I took the sea star (<i>P. Miniata</i>) egg cell as a model system and studied <a href="\research-page.html">the organization principle of a developmental signaling process from a topological point of view</a>. Motivated by the information-processing nature of the biological process, we also explored and established <a href="\research-page.html">the close correspondence between information loss and the topologically-significant braiding dynamics</a>. On the tool development perspective, I have designed and implemented <a href="\research-page.html">an optogenetics system in the sea star egg cell to harness controlability in the mechanochemical machinary</a>. I plan to continue pursuit on this line of research interest, <a href="\research-page.html">potentially in more sophisciated biological and physical settings</a>.
 
 <br><br>
-
-
 
 </body>
 
 ## Broadcast
+### Mar 19, 2021
+I'm giving a talk at 2021 APS (virtual) on the braiding project: <a href="https://meetings.aps.org/Meeting/MAR21/Session/Y11.12">_(Session Y11)_: Mechanics of Cells and Tissues VI</a>.
+### Mar 17, 2021
+My collaborator, Yu-Chen Chao @Harvard SEAS is giving a talk at 2021 APS (virtual) on the pattern-energentics project: <a href="https://meetings.aps.org/Meeting/MAR21/Session/M11.9">_(Session M11)_: Mechanics of Cells and Tissues III</a>.
+### Jan 5, 2021
+My collaborator, Jan Totz @MIT Math is giving a talk on our braiding project at <a href="https://www.chem.fsu.edu/~steinbock/Nonlin21Program.html.">2021 Nonlinear Dynamics in STEM Symposium</a>! 
 
 <!--The simple fact that living organisms are structured by building blocks that function in such an organized fashion across multiple spatial and temporal scales has been inspiring.-->
 
