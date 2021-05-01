@@ -27,7 +27,7 @@ I am currently a PhD student in Fakhri Lab at MIT, expecting graduation in 2022 
 ### Mar 19, 2021
 I'm giving a talk at 2021 APS (virtual) on the braiding project: <a href="https://meetings.aps.org/Meeting/MAR21/Session/Y11.12">(Session Y11) Mechanics of Cells and Tissues VI</a>.
 ### Mar 17, 2021
-My collaborator, Yu-Chen Chao @Harvard SEAS is giving a talk at 2021 APS (virtual) on the pattern-energentics project: <a href="https://meetings.aps.org/Meeting/MAR21/Session/M11.9">(Session M11) Mechanics of Cells and Tissues III</a>.
+My colleague and collaborator, Yu-Chen Chao @Harvard SEAS is giving a talk at 2021 APS (virtual) on the pattern-energentics project: <a href="https://meetings.aps.org/Meeting/MAR21/Session/M11.9">(Session M11) Mechanics of Cells and Tissues III</a>.
 ### Jan 5, 2021
 My collaborator, Jan Totz @MIT Math is giving a talk on our braiding project at <a href="https://www.chem.fsu.edu/~steinbock/Nonlin21Program.html.">2021 Nonlinear Dynamics in STEM Symposium</a>! 
 
