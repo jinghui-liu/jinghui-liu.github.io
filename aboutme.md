@@ -1,13 +1,21 @@
 ---
 layout: default
 ---
-
+## Academics
 Jinghui Liu is currently a graduate student in <a href="https://web.mit.edu/physics/">Department of Physics, MIT</a>. She started in the department in 2016, after completing her undergraduate training at <a href="http://english.pku.edu.cn">Peking University</a> with a Bachelor's degree of Science in Physics.
 
-She joined in <a href="https://www.fakhrilab.com">Fakhri Lab</a> located in <a hef="https://cpls.scripts.mit.edu/wordpress/">Physics of Living Systems Center</a> since 2017, and has been working on a series of intriguing projects at the crossing of living systems and non-equilibrium physics. 
+She joined in <a href="https://www.fakhrilab.com">Fakhri Lab</a> located in <a href="https://cpls.scripts.mit.edu/wordpress/">Physics of Living Systems Center</a> since 2017, and has been working on the series of intriguing projects at the crossing of living systems and non-equilibrium physics since. In her undergrad she had a research background working on the nonlinear dynamical properties of cancerous signaling networks in <a href="http://www.aais.pku.edu.cn/en/cqb/showproduct.php?id=230">Ouyang Lab</a>.
 
-Check her published and ongoing works at [Publications](./pub-page.html), <a href="https://scholar.google.com/citations?user=UaZr6oIAAAAJ&hl=en">Google Scholar</a>, and <a href="https://orcid.org/0000-0003-2770-8415">ORCID</a>.
+Check out her published and ongoing works at [Publications](./pub-page.html), <a href="https://scholar.google.com/citations?user=UaZr6oIAAAAJ&hl=en">Google Scholar</a>, and <a href="https://orcid.org/0000-0003-2770-8415">ORCID</a>.
 
-Jinghui is the recipient of the 2016-2017 Morton E. Goulder Presidential fellowship in MIT. She is a finalist for <a href="https://www.aps.org/units/gsnp/awards/student-speaker.cfm"> GSNP Student Speaker Award </a> at APS 2020 (virtual). More recently, she has been chosen to speak at the <a href="https://mrsec.uchicago.edu/education/for-our-research-community/rising-stars-in-soft-and-biological-matter/">Rising Stars in Soft and Biological Matter Symposium</a>, held by UChicago. In her free time she also works as a student member for MIT's departmental <a href="https://physrefs.mit.edu/about-us">Resources of Easing Friction and Stress</a>. 
+## Awards
+Jinghui is the recipient of the 2016-2017 Morton E. Goulder Presidential fellowship in MIT. She is a finalist for <a href="https://www.aps.org/units/gsnp/awards/student-speaker.cfm"> GSNP Student Speaker Award </a> at APS 2020 (virtual). More recently, she has been chosen to speak at the <a href="https://mrsec.uchicago.edu/education/for-our-research-community/rising-stars-in-soft-and-biological-matter/">Rising Stars in Soft and Biological Matter Symposium</a>, held by UChicago. 
 
-(<a href="{{ site.baseurl }}/pdfs/CV-Jinghui Liu-May 1 2020.pdf">CV</a>).
+Jinghui has participated in a number of academic conferences in the role of a student speaker. E.g. Check out the following two websites for recorded versions of her talks:
+
+2019 Dec, Flatiron Institute "Universality: Turbulence Across Vast Scales": https://www.simonsfoundation.org/event/universality-turbulence-across-vast-scales-598/.
+
+2019 May, Boston University "Theory of living systems Meeting": http://physics.bu.edu/theory-living-systems/meetings/2019.html.
+
+## Activities
+Jinghui has been an active officier of her <a href="http://eh.mit.edu/index.php/officers/">MIT graduate dorm's committee</a> in 2016-2018. She is currently working as a student member for MIT's departmental <a href="https://physrefs.mit.edu/about-us">Resources of Easing Friction and Stress</a> group. 
