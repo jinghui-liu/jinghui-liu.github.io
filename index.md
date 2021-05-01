@@ -11,17 +11,16 @@ layout: frontpage
 
 <body>
 
-From a physicist's standpoint, living systems are marvelous constitutions of molecular building blocks that organize and function naturally across vast spatial and temporal scales. By nature, these blocks embed energy-dissipating machinaries that drive the organisms far from equilibrium, evading the decay to quiescent death (quoting Schrodinger) and also evading our convenient theoretical regime of statistical mechanics. The seek of physical principles governing the organization and functioning of living processes therefore presents both rich test grounds for non-equilibrium theories but also noval oppurtunities for capturing the inherent compleity of living organisms.
+From a physicist's standpoint, living systems are marvelous constitutions of molecular building blocks that organize and function naturally across vast spatial and temporal scales. By nature, these blocks embed energy-dissipating machinaries that drive the organisms far from equilibrium, evading the decay to quiescent death (quoting Schrodinger) but also evading our convenient theoretical regime of statistical mechanics. The seek of physical principles governing the organization and functioning of living processes therefore presents both rich test grounds for non-equilibrium theories and noval oppurtunities for capturing the inherent compleity of living organisms.
+<br><br>
 
-On the other hand, modern scientific advances have unravelled enomarous exciting findings and also brought along a number of tools for 
+On the other hand, modern scientific advances have brought to our sight an unprecedented amount of exciting tools for quantitatively perturbing and alternating components of living systems and even with a spatiotemporal precision. The potential of combining a physics mindset and a biology toolset together to understand and even control complex dynamics in living systems has my inspiration. Quoting P.W. Anderson, "At each level of complexity entirely new properties appear, and the understanding of the new behaviors requires research which I think I as fundamental in its nature as any other..."
+<br><br>
 
-<br>
-<br>
-"At each level of complexity entirely new properties appear, and the understanding of the new behaviors requires research which I think I as fundamental in its nature as any other..."
+I am currently a PhD student in Physics department at MIT, expecting degree in 2022 summer. Throughout my  
 
-<br>
-<br>
-Standing in 
+<br><br>
+
 
 
 </body>
