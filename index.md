@@ -11,12 +11,18 @@ layout: frontpage
 
 <body>
 
+From a physicist's standpoint, living systems are marvelous constitutions of molecular building blocks that organize and function naturally across vast spatial and temporal scales. By nature, these blocks embed energy-dissipating machinaries that drive the organisms far from equilibrium, evading the decay to quiescent death (quoting Schrodinger) and also evading our convenient theoretical regime of statistical mechanics. The seek of physical principles governing the organization and functioning of living processes therefore presents both rich test grounds for non-equilibrium theories but also noval oppurtunities for capturing the inherent compleity of living organisms.
 
+On the other hand, modern scientific advances have unravelled enomarous exciting findings and also brought along a number of tools for 
 
+<br>
+<br>
 "At each level of complexity entirely new properties appear, and the understanding of the new behaviors requires research which I think I as fundamental in its nature as any other..."
 
 <br>
 <br>
+Standing in 
+
 
 </body>
 
