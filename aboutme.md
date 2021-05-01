@@ -13,9 +13,12 @@ Jinghui is the recipient of the 2016-2017 Morton E. Goulder Presidential fellows
 
 Jinghui has participated in a number of academic conferences in the role of a student speaker. E.g. Check out the following two websites for recorded versions of her talks:
 
-2019 Dec, Flatiron Institute "Universality: Turbulence Across Vast Scales": https://www.simonsfoundation.org/event/universality-turbulence-across-vast-scales-598/.
-
-2019 May, Boston University "Theory of living systems Meeting": http://physics.bu.edu/theory-living-systems/meetings/2019.html.
+<p style="textalign:center;">
+2019 Dec, Flatiron Institute <a href="https://www.simonsfoundation.org/event/universality-turbulence-across-vast-scales-598/">"Universality: Turbulence Across Vast Scales"</a>
+</p>
+<p style="textalign:center;">
+2019 May, Boston University <a href="http://physics.bu.edu/theory-living-systems/meetings/2019.html">"Theory of living systems Meeting"</a>
+</p>
 
 ## Activities
 Jinghui has been an active officier of her <a href="http://eh.mit.edu/index.php/officers/">MIT graduate dorm's committee</a> in 2016-2018. She is currently working as a student member for MIT's departmental <a href="https://physrefs.mit.edu/about-us">Resources of Easing Friction and Stress</a> group. 
