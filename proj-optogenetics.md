@@ -1,5 +1,5 @@
 ---
-layout: context
+layout: research-context
 ---
 
 {% comment %}
@@ -83,7 +83,7 @@ p.projectsentry {
     <br><br>
     So what are the new scopes such an optogenetics tool is bringing us? Motivated by our progress in understanding the signaling wave organizations in sea star egg cells, we are developing a light-activation system for modulating the target Rho-GTP activities, such that manipulation of the underlying topological structures is possible. Considering the signaling waves as an information-processing unit wired up in the cell, we aim to experimentally write and read from this processing unit, therefore exploring the physical constraints and even achieving a programmable device. Meanwhile, that cells respond mechanically to Rho-GTP activities also allows us to explore the mechanochemical coupling in such processes.
     <br><br>
-    Check here for a published version of the light activation tool in: <a href="\pub-page.html#pub-hierarchy">M. C. Wigbers<sup>1</sup>, T. H. Tan<sup>1</sup>, F. Brauns, <span style="text-decoration: underline"><b>J. Liu</b></span>, S. Z. Swartz, E. Frey, N. Fakhri.</a>.
+    Check here for a published version of the light activation tool in: <a href="\pub-page.html#pub-hierarchy">M. C. Wigbers<sup>1</sup>, T. H. Tan<sup>1</sup>, F. Brauns, <span style="text-decoration: underline"><b>J. Liu</b></span>, S. Z. Swartz, E. Frey, N. Fakhri.</a>
 
   </p>
 </div>

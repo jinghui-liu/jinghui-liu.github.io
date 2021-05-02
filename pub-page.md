@@ -55,7 +55,7 @@ p.newsentry {
 
 **[4] Topological braiding and virtual particles on the cell membrane**
 
-<div class="pubentry">
+<div class="pubentry" id="pub-braiding">
    <span style="text-decoration: underline"><b>J. Liu</b></span>, J. F. Totz, P. W. Miller, A. D. Hastewell, J. Dunkel, N. Fakhri. 
    In revision.
 </div>
