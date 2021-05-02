@@ -77,7 +77,7 @@ p.newsentry {
 
 **[2] Topological turbulence in the membrane of a living cell**
 
-<div class="pubentry">
+<div class="pubentry" id="pub-turbulence">
    T. H. Tan<sup>1</sup>, <span style="text-decoration: underline"><b>J. Liu</b></span><sup>1</sup>, P. W. Miller<sup>1</sup>, M. Tekant, J. Dunkel, N. Fakhri.
    <a href="https://www.nature.com/articles/s41567-020-0841-9">Nature Physics 2020.</a>
 </div>

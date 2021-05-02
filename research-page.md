@@ -64,7 +64,7 @@ p.projectsentry {
 }
 
 </style>
-
+## Projects
 A list of my ongoing and past projects can be found here:
 
 <div class="projectswrapper">
@@ -116,3 +116,5 @@ A list of my ongoing and past projects can be found here:
      </p>
     </div>
 </div>
+
+## Future interests
