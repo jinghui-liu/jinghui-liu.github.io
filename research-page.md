@@ -112,7 +112,7 @@ A list of my ongoing and past projects can be found here:
      <b>Seeking principles: Turbulent organization of protein signaling waves</b>
      </p>
      <p style="margin-top:-20px;text-indent:40px;">
-     <small><a href="\proj-turbulence.html">Spatiotemporal organization of a developmental signaling process from the underlying topological structures</a></small>
+     <small><a href="\proj-turbulence.html">Spatiotemporal organization of a developmental signaling process from underlying topological structures</a></small>
      </p>
     </div>
 </div>

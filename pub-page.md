@@ -63,7 +63,7 @@ p.newsentry {
 
 **[3] A hierarchy of protein patterns robustly decodes cell shape information**
 
-<div class="pubentry">
+<div class="pubentry" id="pub-hierarchy">
    M. C. Wigbers<sup>1</sup>, T. H. Tan<sup>1</sup>, F. Brauns, <span style="text-decoration: underline"><b>J. Liu</b></span>, S. Z. Swartz, E. Frey, N. Fakhri.
    <a href="https://www.nature.com/articles/s41567-021-01164-9">Nature Physics 2021.</a>
 </div>
