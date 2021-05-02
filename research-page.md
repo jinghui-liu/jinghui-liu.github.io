@@ -104,7 +104,7 @@ A list of my ongoing and past projects can be found here:
 <div class="projectswrapper">
    <div class="projectsframes" style = "width: 120px;">
    <a href="\proj-turbulence.html">
-    <img src="/assets/gifs/phase velocity field streamlines.gif" alt="turbulence_square">
+    <img src="/assets/gifs/phase velocity field streamlines_square.gif" alt="turbulence_square">
    </a>
    </div>
    <div class="projectsframes" style = "width: 770px; vertical-align:top;">
@@ -118,6 +118,8 @@ A list of my ongoing and past projects can be found here:
 </div>
 
 ## Future interests
+<p id="future">
 Quoting <a href="https://science.sciencemag.org/content/sci/177/4047/393.full.pdf">P.W. Anderson</a>, "At each level of complexity entirely new properties appear, and the understanding of the new behaviors requires research which I think I as fundamental in its nature as any other...". I find the most exciting research questions emerging at the intersections between living complexities and physical simplicities.
 <br><br>
 _Coming soon..._
+</p>
