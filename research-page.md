@@ -121,5 +121,5 @@ A list of my ongoing and past projects can be found here:
 <p id="future">
 Quoting <a href="https://science.sciencemag.org/content/sci/177/4047/393.full.pdf">P.W. Anderson</a>, "At each level of complexity entirely new properties appear, and the understanding of the new behaviors requires research which I think I as fundamental in its nature as any other...". I find the most exciting research questions emerging at the intersections between living complexities and physical simplicities.
 <br><br>
-_Coming soon..._
 </p>
+_Coming soon..._
