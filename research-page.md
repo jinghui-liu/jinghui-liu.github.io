@@ -102,7 +102,7 @@ A list of my ongoing and past projects can be found here:
     </div>
 </div>
 <div class="projectswrapper">
-   <div class="projectsframes" style = "width: 118px;">
+   <div class="projectsframes" style = "width: 120px;">
    <a href="\proj-turbulence.html">
     <img src="/assets/gifs/phase velocity field streamlines.gif" alt="turbulence_square">
    </a>
