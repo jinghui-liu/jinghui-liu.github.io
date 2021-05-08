@@ -11,13 +11,13 @@ Check out her published and ongoing works at [Publications](./pub-page.html), <a
 ## Awards
 Jinghui is the recipient of the 2016-2017 Morton E. Goulder Presidential fellowship in MIT. She is a finalist for <a href="https://www.aps.org/units/gsnp/awards/student-speaker.cfm"> GSNP Student Speaker Award </a> at APS 2020 (virtual). More recently, she has been chosen to speak at the <a href="https://mrsec.uchicago.edu/education/for-our-research-community/rising-stars-in-soft-and-biological-matter/">Rising Stars in Soft and Biological Matter Symposium</a>, held by UChicago. 
 
-Jinghui has participated in a number of academic conferences in the role of a student speaker. E.g. Check out the following two websites for recorded versions of her talks:
+Jinghui has participated in a number of academic conferences in the role of invited student speaker. E.g. Check out the following two websites for recorded versions of her talks:
 
 <p style="textalign:center;">
-2019 Dec, Flatiron Institute <a href="https://www.simonsfoundation.org/event/universality-turbulence-across-vast-scales-598/">"Universality: Turbulence Across Vast Scales"</a>
+<b>2019 Dec, Flatiron Institute <a href="https://www.simonsfoundation.org/event/universality-turbulence-across-vast-scales-598/">"Universality: Turbulence Across Vast Scales"</a></b>
 </p>
 <p style="textalign:center;">
-2019 May, Boston University <a href="http://physics.bu.edu/theory-living-systems/meetings/2019.html">"Theory of living systems Meeting"</a>
+<b>2019 May, Boston University <a href="http://physics.bu.edu/theory-living-systems/meetings/2019.html">"Theory of living systems Meeting"</a></b>
 </p>
 
 ## Activities
