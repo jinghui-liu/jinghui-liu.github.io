@@ -1,5 +1,5 @@
 ---
-layout: context
+layout: research-context
 ---
 
 {% comment %}
