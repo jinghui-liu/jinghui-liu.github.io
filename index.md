@@ -2,6 +2,7 @@
 layout: frontpage
 ---
 <head>
+<meta name="google-site-verification" content="tQTkntqf--gRoUTY2bDEMEVCEDTUDNGSliP75jh6fwY" />
 <style>
 .center {
   text-align: center;
