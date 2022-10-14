@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: context
 ---
 
 Coming soon...
