@@ -12,11 +12,11 @@ layout: frontpage
 
 <body> 
 
-For a physicist, the growth and regeneration of any living organisms are marvelous organization of signaling and building blocks to watch. The seek of generalizable physical principles in this context can be a natural but intimidating quest, given the complexity in developmental biology and so on. Yet, grand opportunities lie in such a junction for interdisciplinary biophysicists, that a combo of emerging experimental tools and developing nonequilibrium theories can bring condensed matter physics and cell biology minds together.
+For a physicist, the <a href="https://www.pnas.org/doi/10.1073/pnas.2104191118#sm01">growth</a> and <a hef="https://movie.rupress.org/video/10.1083/jcb.201203154/video-1">regeneration</a> of living organisms are marvelous organizations of signaling and building blocks to adore. The seek of generalizable physical principles in this context can be a natural but intimidating quest, given the complexity in developmental biology and so on. Yet, grand opportunities lie in such a junction for interdisciplinary biophysicists, that a combo of emerging experimental tools and developing nonequilibrium theories can bring condensed matter physics and cell biology minds together.
 
 <br><br>
 
-I joined the Center for Systems Biology Dresden as an <a href="https://www.csbdresden.de/join-us/as-a-postdoc/">ELBE postdoc fellow</a> in Oct 2022, working between the Max Planck Institute for Physics of Complex Systems and the Max Planck Institute for Cell Biology and Genetics. I received my PhD in Physics from MIT in Sep 2022 and hold a Bachelor of Science in Physics degree from Peking University (2016).
+I joined the Center for Systems Biology Dresden as an <a href="https://www.csbdresden.de/join-us/as-a-postdoc/">ELBE postdoc fellow</a> in Oct 2022, working between the Max Planck Institute for Physics of Complex Systems and the Max Planck Institute for Cell Biology and Genetics. I received my PhD in Physics from MIT in Sep 2022 and hold a Bachelor of Science degree, also in Physics, from Peking University (2016).
 
 <!-- I worked on the protein patterning process in dividing starfish eggs and more recently wound healing response in zebrafish. My research interest lies in understanding the organization principles of information-transmitting biological processes. -->
 
