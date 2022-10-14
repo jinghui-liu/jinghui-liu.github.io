@@ -16,13 +16,17 @@ For a physicist, the <a href="https://www.pnas.org/doi/10.1073/pnas.2104191118#s
 
 <br><br>
 
-I joined the Center for Systems Biology Dresden as an <a href="https://www.csbdresden.de/join-us/as-a-postdoc/">ELBE postdoc fellow</a> in Oct 2022, working between the Max Planck Institute for Physics of Complex Systems and the Max Planck Institute for Cell Biology and Genetics. I received my PhD in Physics from MIT in Sep 2022 and hold a Bachelor of Science degree, also in Physics, from Peking University (2016).
+I joined the Center for Systems Biology Dresden as an <a href="https://www.csbdresden.de/join-us/as-a-postdoc/">ELBE postdoc fellow</a> in Oct 2022, working between the Max Planck Institute for Physics of Complex Systems and the Max Planck Institute for Cell Biology and Genetics. I received my PhD in <a hef="https://physics.mit.edu">Physics from MIT</a> in Sep 2022 and hold a Bachelor of Science degree, also in <a hef="https://english.phy.pku.edu.cn">Physics, from Peking University</a> (2016).
+
+<br><br>
+
+Check out my <a hef="\research-page.html">past and ongoing research</a>, <a hef="\pub-page.html">publications</a>, <a hef="{{ site.baseurl }}/pdfs/CV_JinghuiLiu_2022Oct.pdf">CV</a>, <a hef="\aboutme.html">gallery</a> today, or <a hef="mailto:jinghui.liu@pks.mpg.de">shoot me an email</a>!
+
+<br><br>
 
 <!-- I worked on the protein patterning process in dividing starfish eggs and more recently wound healing response in zebrafish. My research interest lies in understanding the organization principles of information-transmitting biological processes. -->
 
 <!-- Combining tools of experiments, theory-driven analyses and numerical simulations, I took the sea star (<i>P. Miniata</i>) egg cell as a model system and studied <a href="\proj-turbulence.html">the organization principle of a developmental signaling process from a topological point of view</a>. Motivated by the information-processing nature of the biological process, we also explored and established <a href="\proj-braiding.html">the close correspondence between information loss and the topologically-significant braiding dynamics</a>. On the tool development perspective, I have designed and implemented <a href="\proj-optogenetics.html">an optogenetics system in the sea star egg cell to harness controllability in the mechanochemical machinery</a>. In the future I plan to continue pursuit on this line of research interest, <a href="\research-page.html#future">potentially in more sophisciated biological and physical settings.</a> -->
-
-<br><br>
 
 </body>
 
