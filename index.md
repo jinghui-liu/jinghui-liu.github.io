@@ -2,6 +2,7 @@
 layout: frontpage
 ---
 <head>
+<link rel="stylesheet" href="/assets/css/academicons.min.css"/>
 <meta name="google-site-verification" content="tQTkntqf--gRoUTY2bDEMEVCEDTUDNGSliP75jh6fwY" />
 <style>
 .center {
