@@ -12,15 +12,15 @@ layout: frontpage
 
 <body> 
 
-For a physicist, the <a href="https://www.pnas.org/doi/10.1073/pnas.2104191118#sm01">growth</a> and <a hef="https://www.pnas.org/doi/10.1073/pnas.2104191118#sm01">regeneration</a> of living organisms are marvelous organizations of signaling and building blocks to adore. The seek of generalizable physical principles in this context can be a natural but intimidating quest, given the complexity in developmental biology and so on. Yet, grand opportunities lie in such a junction for interdisciplinary biophysicists, that a combo of emerging experimental tools and developing nonequilibrium theories can bring condensed matter physics and cell biology minds together.
+For a physicist, the <a href="https://www.pnas.org/doi/10.1073/pnas.2104191118#sm01">growth</a> and <a href="https://movie.rupress.org/video/10.1083/jcb.201203154/video-1">regeneration</a> of living organisms are marvelous organizations of signaling and building blocks to adore. The seek of generalizable physical principles in this context can be a natural but intimidating quest, given the complexity in developmental biology and so on. Yet, grand opportunities lie in such a junction for interdisciplinary biophysicists, that a combo of emerging experimental tools and developing nonequilibrium theories can bring condensed matter physics and cell biology minds together.
 <!-- https://movie.rupress.org/video/10.1083/jcb.201203154/video-1 -->
 <br><br>
 
-I joined the Center for Systems Biology Dresden as an <a href="https://www.csbdresden.de/join-us/as-a-postdoc/">ELBE postdoc fellow</a> in Oct 2022, working between the Max Planck Institute for Physics of Complex Systems and the Max Planck Institute for Cell Biology and Genetics. I received my PhD in <a hef="https://physics.mit.edu">Physics from MIT</a> in Sep 2022 and hold a Bachelor of Science degree, also in <a hef="https://english.phy.pku.edu.cn">Physics, from Peking University</a> (2016).
+I joined the Center for Systems Biology Dresden as an <a href="https://www.csbdresden.de/join-us/as-a-postdoc/">ELBE postdoc fellow</a> in Oct 2022, working between the Max Planck Institute for Physics of Complex Systems and the Max Planck Institute for Cell Biology and Genetics. I received my PhD in <a href="https://physics.mit.edu">Physics from MIT</a> in Sep 2022 and hold a Bachelor of Science degree, also in <a href="https://english.phy.pku.edu.cn">Physics, from Peking University</a> (2016).
 
 <br><br>
 
-Check out my <a hef="\research-page.html">past and ongoing research</a>, <a hef="\pub-page.html">publications</a>, <a hef="{{ site.baseurl }}/pdfs/CV_JinghuiLiu_2022Oct.pdf">CV</a>, <a hef="\aboutme.html">gallery</a> today, or <a hef="mailto:jinghui.liu@pks.mpg.de">shoot me an email</a>!
+Check out my <a href="/research-page.html">past and ongoing research</a>, <a href="/pub-page.html">publications</a>, <a href="{{ site.baseurl }}/pdfs/CV_JinghuiLiu_2022Oct.pdf">CV</a>, <a href="/aboutme.html">gallery</a> today, or <a href="mailto:jinghui.liu@pks.mpg.de">shoot me an email</a>!
 
 <br><br>
 
