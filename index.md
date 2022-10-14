@@ -12,7 +12,7 @@ layout: frontpage
 
 <body> 
 
-For a physicist, the <a href="https://www.pnas.org/doi/10.1073/pnas.2104191118#sm01">growth</a> and <a href="https://movie.rupress.org/video/10.1083/jcb.201203154/video-1">regeneration</a> of living organisms are marvelous organizations of signaling and building blocks to adore. The seek of generalizable physical principles in this context can be a natural but intimidating quest, given the complexity in developmental biology and so on. Yet, grand opportunities lie in such a junction for interdisciplinary biophysicists, that a combo of emerging experimental tools and developing nonequilibrium theories can bring condensed matter physics and cell biology minds together.
+For a physicist, the <a href="https://www.pnas.org/doi/10.1073/pnas.2104191118#sm01">growth</a> and <a href="https://movie.rupress.org/video/10.1083/jcb.201203154/video-1">regeneration</a> of living organisms are marvelous organizational events of signaling and building blocks to adore. The seek of generalizable physical principles in this context can be a natural but intimidating quest, given the complexity in developmental biology and so on. Yet, grand opportunities lie in such a junction for interdisciplinary biophysicists, that a combo of emerging experimental tools and developing nonequilibrium theories can bring condensed matter physics and cell biology minds together.
 <!-- https://movie.rupress.org/video/10.1083/jcb.201203154/video-1 -->
 <br><br>
 
