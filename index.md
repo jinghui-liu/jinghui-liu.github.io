@@ -14,7 +14,7 @@ layout: frontpage
 <body> 
 
 For a physicist, the <a href="https://www.pnas.org/doi/10.1073/pnas.2104191118#sm01">growth</a> and <a href="https://movie.rupress.org/video/10.1083/jcb.201203154/video-1">regeneration</a> of living organisms are marvelous organizational events of signaling and building blocks to adore. The seek of generalizable physical principles in this context can be a natural but intimidating quest, given the complexity in developmental biology and so on. Yet, grand opportunities lie in such a junction for interdisciplinary biophysicists, that a combo of emerging experimental tools and developing nonequilibrium theories can bring condensed matter physics and cell biology minds together.
-<!-- https://movie.rupress.org/video/10.1083/jcb.201203154/video-1 -->
+
 <br><br>
 
 I joined the Center for Systems Biology Dresden as an <a href="https://www.csbdresden.de/join-us/as-a-postdoc/">ELBE postdoc fellow</a> in Oct 2022, working between the Max Planck Institute for Physics of Complex Systems and the Max Planck Institute for Cell Biology and Genetics. I received my PhD in <a href="https://physics.mit.edu">Physics from MIT</a> in Sep 2022 and hold a Bachelor of Science degree, also in <a href="https://english.phy.pku.edu.cn">Physics, from Peking University</a> (2016).
