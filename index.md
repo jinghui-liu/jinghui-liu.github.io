@@ -10,32 +10,30 @@ layout: frontpage
 </style>
 </head>
 
-<body>
+<body> 
 
-From a physicist's standpoint, living systems are marvelous constitutions of molecular building blocks that organize and function naturally across vast spatial and temporal scales. By nature, these blocks embed energy-dissipating machineries that drive the organisms far from equilibrium, evading the decay to death (quoting <a href="http://www.whatislife.ie/downloads/What-is-Life.pdf">Schr<span>&#246;</span>dinger</a>) but also evading conventional scopes of statistical mechanics. The seek of physical principles that govern living organisms presents test grounds for non-equilibrium physical theories. On the other hand, brought into sight by modern scientific advances is an unprecedented amount of tools for quantitatively alternating biological components. The potential of combining a physics mindset and a biology toolset together to understand and even control complex dynamics in living systems has therefore been my inspiration. 
+From a physicist's standpoint, the growth and regeneration of any living organisms represents the marvelous organization of signaling and building blocks across vast spatiotemporal scales that form function. The seek of physical principles that are generalizable in this context can be a natural but intimidating quest, given the notable complexity involved in the developmental cell biology field. Yet, grand potential and opportunities lie in such a junction for interdisciplinary biophysicists, that both emerging experimental tools and developing nonequilibrium theories can be utilized to bring condensed matter physics and cell biology minds together.
+
 <br><br>
 
-<!--From a physicist's standpoint, living systems are marvelous constitutions of molecular building blocks that organize and function naturally across vast spatial and temporal scales. By nature, these blocks embed energy-dissipating machineries that drive the organisms far from equilibrium, evading the decay to quiescent death (quoting <a href="http://www.whatislife.ie/downloads/What-is-Life.pdf">Schr<span>&#246;</span>dinger</a>) but also evading our convenient theoretical regime of statistical mechanics. The seek of physical principles governing the organization and functioning of living processes therefore presents both rich test grounds for non-equilibrium theories and noval oppurtunities for capturing the inherent compleity of living organisms.
-<br><br>
+I am an <a href="https://www.csbdresden.de/join-us/as-a-postdoc/">ELBE postdoc fellow</a> in the Center for Systems Biology Dresden, working between the Max Planck Institute for Physics of Complex Systems and the Max Planck Institute for Cell Biology and Genetics. I received my PhD in Physics from MIT in summer 2022 and hold a Bachelor of Science in Physics degree from Peking University (2016).
 
-On the other hand, modern scientific advances have brought to our sight an unprecedented amount of exciting tools for quantitatively perturbing and alternating components of living systems and even with a spatiotemporal precision. The potential of combining a physics mindset and a biology toolset together to understand and even control complex dynamics in living systems has been my inspiration. Quoting <a href="https://science.sciencemag.org/content/sci/177/4047/393.full.pdf">P.W. Anderson</a>, "At each level of complexity entirely new properties appear, and the understanding of the new behaviors requires research which I think I as fundamental in its nature as any other..."
-<br><br>.-->
+<!-- I worked on the protein patterning process in dividing starfish eggs and more recently wound healing response in zebrafish. My research interest lies in understanding the organization principles of information-transmitting biological processes. -->
 
-I am currently a PhD student in Fakhri Lab at MIT, expecting graduation in 2022 summer. Combining tools of experiments, theory-driven analyses and numerical simulations, I took the sea star (<i>P. Miniata</i>) egg cell as a model system and studied <a href="\proj-turbulence.html">the organization principle of a developmental signaling process from a topological point of view</a>. Motivated by the information-processing nature of the biological process, we also explored and established <a href="\proj-braiding.html">the close correspondence between information loss and the topologically-significant braiding dynamics</a>. On the tool development perspective, I have designed and implemented <a href="\proj-optogenetics.html">an optogenetics system in the sea star egg cell to harness controllability in the mechanochemical machinery</a>. In the future I plan to continue pursuit on this line of research interest, <a href="\research-page.html#future">potentially in more sophisciated biological and physical settings.</a>
+<!-- Combining tools of experiments, theory-driven analyses and numerical simulations, I took the sea star (<i>P. Miniata</i>) egg cell as a model system and studied <a href="\proj-turbulence.html">the organization principle of a developmental signaling process from a topological point of view</a>. Motivated by the information-processing nature of the biological process, we also explored and established <a href="\proj-braiding.html">the close correspondence between information loss and the topologically-significant braiding dynamics</a>. On the tool development perspective, I have designed and implemented <a href="\proj-optogenetics.html">an optogenetics system in the sea star egg cell to harness controllability in the mechanochemical machinery</a>. In the future I plan to continue pursuit on this line of research interest, <a href="\research-page.html#future">potentially in more sophisciated biological and physical settings.</a> -->
 
 <br><br>
 
 </body>
 
-## Broadcast
-### Mar 19, 2021
+## Upcoming
+
+<!-- ### Mar 19, 2021
 I'm giving a talk at 2021 APS (virtual) on the braiding project: <a href="https://meetings.aps.org/Meeting/MAR21/Session/Y11.12">(Session Y11) Mechanics of Cells and Tissues VI</a>.
 ### Mar 17, 2021
 My colleague and collaborator, Yu-Chen Chao @Harvard SEAS is giving a talk at 2021 APS (virtual) on the pattern-energentics project: <a href="https://meetings.aps.org/Meeting/MAR21/Session/M11.9">(Session M11) Mechanics of Cells and Tissues III</a>.
 ### Jan 5, 2021
-My collaborator, Jan Totz @MIT Math is giving a talk on our braiding project at <a href="https://www.chem.fsu.edu/~steinbock/Nonlin21Program.html.">2021 Nonlinear Dynamics in STEM Symposium</a>! 
-
-<!--The simple fact that living organisms are structured by building blocks that function in such an organized fashion across multiple spatial and temporal scales has been inspiring.-->
+My collaborator, Jan Totz @MIT Math is giving a talk on our braiding project at <a href="https://www.chem.fsu.edu/~steinbock/Nonlin21Program.html.">2021 Nonlinear Dynamics in STEM Symposium</a>!  -->
 
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.
