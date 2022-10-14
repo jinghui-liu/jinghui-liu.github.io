@@ -1,7 +1,12 @@
 ---
 layout: default
 ---
-## Academics
+
+Coming soon...
+
+<!-- I grew up in  -->
+
+<!-- ## Academics
 Jinghui Liu is currently a graduate student in <a href="https://web.mit.edu/physics/">Department of Physics, MIT</a>. She started in the department in 2016, after completing her undergraduate training at <a href="http://english.pku.edu.cn">Peking University</a> with a Bachelor's degree of Science in Physics.
 
 She joined in <a href="https://www.fakhrilab.com">Fakhri Lab</a> located in <a href="https://cpls.scripts.mit.edu/wordpress/">Physics of Living Systems Center</a> since 2017, and has been working on the series of intriguing projects at the crossing of living systems and non-equilibrium physics since. In her undergrad she had a research background working on the nonlinear dynamical properties of cancerous signaling networks in <a href="http://www.aais.pku.edu.cn/en/cqb/showproduct.php?id=230">Ouyang Lab</a> and microbial populations in <a href="http://www.gorelab.org/">Gore Lab</a>.
@@ -21,4 +26,4 @@ Jinghui has participated in a number of academic conferences in the role of invi
 </p>
 
 ## Activities
-Jinghui has been an active officier of her <a href="http://eh.mit.edu/index.php/officers/">MIT graduate dorm's committee</a> in 2016-2018. She is currently working as a student member for MIT's departmental <a href="https://physrefs.mit.edu/about-us">Resources of Easing Friction and Stress</a> group. 
+Jinghui has been an active officier of her <a href="http://eh.mit.edu/index.php/officers/">MIT graduate dorm's committee</a> in 2016-2018. She is currently working as a student member for MIT's departmental <a href="https://physrefs.mit.edu/about-us">Resources of Easing Friction and Stress</a> group.  -->
