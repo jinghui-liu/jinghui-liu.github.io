@@ -65,7 +65,7 @@ p.projectsentry {
 </style>
   <div class="outer-wrapper">
   <div class="frame">
-    <img src="/assets/gifs/braiding.gif" alt="braiding" height="500">
+    <img src="/assets/gifs/optogenetics.gif" alt="optogenetics" height="500">
   </div>
 </div>
 
