@@ -65,7 +65,7 @@ p.projectsentry {
 Coming soon!
 
 
-<!-- I grew up in  -->
+/* <!-- I grew up in  -->
 
 <!-- ## Academics
 Jinghui Liu is currently a graduate student in <a href="https://web.mit.edu/physics/">Department of Physics, MIT</a>. She started in the department in 2016, after completing her undergraduate training at <a href="http://english.pku.edu.cn">Peking University</a> with a Bachelor's degree of Science in Physics.
@@ -87,4 +87,4 @@ Jinghui has participated in a number of academic conferences in the role of invi
 </p>
 
 ## Activities
-Jinghui has been an active officier of her <a href="http://eh.mit.edu/index.php/officers/">MIT graduate dorm's committee</a> in 2016-2018. She is currently working as a student member for MIT's departmental <a href="https://physrefs.mit.edu/about-us">Resources of Easing Friction and Stress</a> group.  -->
+Jinghui has been an active officier of her <a href="http://eh.mit.edu/index.php/officers/">MIT graduate dorm's committee</a> in 2016-2018. She is currently working as a student member for MIT's departmental <a href="https://physrefs.mit.edu/about-us">Resources of Easing Friction and Stress</a> group.  --> */

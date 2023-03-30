@@ -1,6 +1,7 @@
 ---
 layout: research-context
 ---
+
 {% comment %}
 {% include googleDrivePlayer.html%}
 {% endcomment %}
@@ -63,33 +64,20 @@ p.projectsentry {
 }
 
 </style>
-  <div class="outer-wrapper">
+
+<div class="outer-wrapper">
   <div class="frame">
     <img src="/assets/gifs/optogenetics.gif" alt="optogenetics" height="500">
   </div>
 </div>
 
+<div class="center">
+  <p style="margin-top:10px;margin-bottom:50px;">
+    The concept of topology being an elegant yet key determinant of physical systems has been an important one brought up in modern physics research. It is across diverse complex matter fields that such claim has found unexpected yet solid evidence, and the biological constitutes of molecules, cells and organisms are extradinary examples of them. The application of topological measures in living systems offers an perspective unprecedented in its potential to tame their complexity and diversity, by connecting unversalities across model systems. Despite the promising faces, such measures are still in development especically in terms of their connection to math formalism and biological implications.
+    <br><br>
+    We moved further such an application via characterizing the topological braiding dynamics and quantifying its close correspondence to information processing dynamics during cell signaling. Studying the Rho-GTP signaling wave patterns formed during sea star egg cell development, we found that the Rho-GTP activity level critically determines the topological order parameters extratable from space-time phase continuum. More intriguingly, applying an established math formalism of calculating growth of topology entropy (braiding exponent), we found that such activity levels give rise to sequential rises in both the braiding exponent growth and the information loss rate. We therefore provide a first-of-its-kind case study of topological quantification with implications in understanding the propagation of live-cell signaling information. 
+    <br><br>
+    Check here for the in-revision project: <a href="\pub-page.html#pub-braiding"><span style="text-decoration: underline"><b>J. Liu</b></span>, J. F. Totz, P. W. Miller, A. D. Hastewell, J. Dunkel, N. Fakhri.</a>.
 
-<!-- I grew up in  -->
-
-<!-- ## Academics
-Jinghui Liu is currently a graduate student in <a href="https://web.mit.edu/physics/">Department of Physics, MIT</a>. She started in the department in 2016, after completing her undergraduate training at <a href="http://english.pku.edu.cn">Peking University</a> with a Bachelor's degree of Science in Physics.
-
-She joined in <a href="https://www.fakhrilab.com">Fakhri Lab</a> located in <a href="https://cpls.scripts.mit.edu/wordpress/">Physics of Living Systems Center</a> since 2017, and has been working on the series of intriguing projects at the crossing of living systems and non-equilibrium physics since. In her undergrad she had a research background working on the nonlinear dynamical properties of cancerous signaling networks in <a href="http://www.aais.pku.edu.cn/en/cqb/showproduct.php?id=230">Ouyang Lab</a> and microbial populations in <a href="http://www.gorelab.org/">Gore Lab</a>.
-
-Check out her published and ongoing works at [Publications](./pub-page.html), <a href="https://scholar.google.com/citations?user=UaZr6oIAAAAJ&hl=en">Google Scholar</a>, and <a href="https://orcid.org/0000-0003-2770-8415">ORCID</a>.
-
-## Awards
-Jinghui is the recipient of the 2016-2017 Morton E. Goulder Presidential fellowship in MIT. She is a finalist for <a href="https://www.aps.org/units/gsnp/awards/student-speaker.cfm"> GSNP Student Speaker Award </a> at APS 2020 (virtual). More recently, she has been chosen to speak at the <a href="https://mrsec.uchicago.edu/education/for-our-research-community/rising-stars-in-soft-and-biological-matter/">Rising Stars in Soft and Biological Matter Symposium</a>, held by UChicago. 
-
-Jinghui has participated in a number of academic conferences in the role of invited student speaker. E.g. Check out the following two websites for recorded versions of her talks:
-
-<p style="textalign:center;">
-<b>2019 Dec, Flatiron Institute <a href="https://www.simonsfoundation.org/event/universality-turbulence-across-vast-scales-598/">"Universality: Turbulence Across Vast Scales"</a></b>
-</p>
-<p style="textalign:center;">
-<b>2019 May, Boston University <a href="http://physics.bu.edu/theory-living-systems/meetings/2019.html">"Theory of living systems Meeting"</a></b>
-</p>
-
-## Activities
-Jinghui has been an active officier of her <a href="http://eh.mit.edu/index.php/officers/">MIT graduate dorm's committee</a> in 2016-2018. She is currently working as a student member for MIT's departmental <a href="https://physrefs.mit.edu/about-us">Resources of Easing Friction and Stress</a> group.  -->
+  </p>
+</div>
