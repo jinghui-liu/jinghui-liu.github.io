@@ -62,7 +62,12 @@ p.projectsentry {
   line-height:1.5;
 }
 
-Coming soon!
+</style>
+  <div class="outer-wrapper">
+  <div class="frame">
+    <img src="/assets/gifs/optogenetics.gif" alt="optogenetics" height="500">
+  </div>
+</div>
 
 
 <!-- I grew up in  -->
