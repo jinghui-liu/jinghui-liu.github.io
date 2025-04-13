@@ -33,6 +33,8 @@ Check out my <a href="/research-page.html">research</a>, <a href="/pub-page.html
 
 ## Upcoming
 
+I will start the Marie Curie fellow position in MPI-CBG on Sep. 1, 2025!
+
 <!-- ### Mar 19, 2021
 I'm giving a talk at 2021 APS (virtual) on the braiding project: <a href="https://meetings.aps.org/Meeting/MAR21/Session/Y11.12">(Session Y11) Mechanics of Cells and Tissues VI</a>.
 ### Mar 17, 2021
