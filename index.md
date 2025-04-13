@@ -21,7 +21,7 @@ I joined the Center for Systems Biology Dresden as an <a href="https://www.csbdr
 
 <br><br>
 
-Check out my <a href="/research-page.html">research</a>, <a href="/pub-page.html">publications</a>, <a href="{{ site.baseurl }}/pdfs/CV_JinghuiLiu.pdf">CV</a>, <a href="/aboutme.html">gallery</a> today, or <a href="mailto:jinghui.liu@pks.mpg.de">shoot me an email</a>!
+Check out my <a href="/research-page.html">research</a>, <a href="/pub-page.html">publications</a>, <a href="{{ site.baseurl }}/pdfs/CV_JinghuiLiu.pdf">CV</a>, <a href="/gallery.html">gallery</a> today, or <a href="mailto:jinghui.liu@pks.mpg.de">shoot me an email</a>!
 
 <br><br>
 
