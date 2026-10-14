@@ -17,11 +17,16 @@ For a physicist, the <a href="https://www.pnas.org/doi/10.1073/pnas.2104191118#s
 
 <br><br>
 
-I joined the Center for Systems Biology Dresden as an <a href="https://www.csbdresden.de/join-us/as-a-postdoc/">ELBE postdoc fellow</a> in Oct 2022, working between the Max Planck Institute for Physics of Complex Systems and the Max Planck Institute for Cell Biology and Genetics. I received my PhD in <a href="https://physics.mit.edu">Physics from MIT</a> in Sep 2022 and hold a Bachelor of Science degree, also in <a href="https://english.phy.pku.edu.cn">Physics, from Peking University</a> (2016).
+Jinghui is a physicist working at the interface of soft matter physics and developmental biology, investigating how nonlinear, multiscale biological signaling events orchestrate cell morphing and tissue regeneration. She is currently an MSCA Postdoctoral Researcher at the Max Planck Institute of Molecular Cell Biology and Genetics and the Physics of Life Cluster of Excellence at TU Dresden, where she characterizes and interprets bioelectric tissue responses following ultrafast laser injury and during regeneration in larval zebrafish. During her PhD in Physics at the Massachusetts Institute of Technology, she developed synthetic cells with graded and tunable responses to light by controlled amplification of nonlinearity for an endogenous chemomechanical signal transduction circuit. 
+
+In 2027, she will join the Center for Interdisciplinary Studies at Westlake University as an assistant professor. There, she and her team will combine an all-optical physiology platform, nonequilibrium physics models, and imaging-based scientific machine learning tools to understand and engineer functional, adaptive matter that bridges natural and synthetic forms of life. 
+
+
+<!-- I joined the Center for Systems Biology Dresden as an <a href="https://www.csbdresden.de/join-us/as-a-postdoc/">ELBE postdoc fellow</a> in Oct 2022, working between the Max Planck Institute for Physics of Complex Systems and the Max Planck Institute for Cell Biology and Genetics. I received my PhD in <a href="https://physics.mit.edu">Physics from MIT</a> in Sep 2022 and hold a Bachelor of Science degree, also in <a href="https://english.phy.pku.edu.cn">Physics, from Peking University</a> (2016).
 
 <br><br>
 
-Check out my <a href="/research-page.html">research</a>, <a href="/pub-page.html">publications</a>, <a href="{{ site.baseurl }}/pdfs/CV_JinghuiLiu_2025Apr.pdf">CV</a>, <a href="/gallery.html">gallery</a> today, or <a href="mailto:jinghui.liu@pks.mpg.de">shoot me an email</a>!
+Check out my <a href="/research-page.html">research</a>, <a href="/pub-page.html">publications</a>, <a href="{{ site.baseurl }}/pdfs/CV_JinghuiLiu_2025Apr.pdf">CV</a>, <a href="/gallery.html">gallery</a> today, or <a href="mailto:jinghuiliu@westlake.edu.cn">shoot me an email</a>! -->
 
 <br><br>
 
@@ -33,9 +38,13 @@ Check out my <a href="/research-page.html">research</a>, <a href="/pub-page.html
 
 ## Upcoming
 
-I will start the Marie Curie fellow position in MPI-CBG on Sep. 1, 2025!
+I am selected as a scholar-in-residence to attend the NITMB Long Program <a href="https://www.nitmb.org/event/image-based-scientific-machine-learning-for-theories-of-biological-dynamics-across-scales/">"Image-Based Scientific Machine Learning for Theories of Biological Dynamics Across Scales"</a>, from Feb 1 to Mar 12, 2027.
 
-<!-- ### Mar 19, 2021
+I am featured as <a href="https://www.dpg-physik.de/vereinigungen/fachuebergreifend/ak/akc/publikationen/physikerin-der-woche">the 42nd Women Physicist Scientist</a> in the "Physikerin der Woche 2026" DPG Project! This is the German Physical Society's Equal Opportunities Working Group that spotlight women in physics based in Germany.
+
+<!-- I will start the Marie Curie fellow position in MPI-CBG on Sep. 1, 2025! Check the <a href="https://www.mpi-cbg.de/news-outreach/news-media/article/marie-sklodowska-curie-postdoctoral-fellowship-for-jinghui-liu">news</a> here.
+
+### Mar 19, 2021
 I'm giving a talk at 2021 APS (virtual) on the braiding project: <a href="https://meetings.aps.org/Meeting/MAR21/Session/Y11.12">(Session Y11) Mechanics of Cells and Tissues VI</a>.
 ### Mar 17, 2021
 My colleague and collaborator, Yu-Chen Chao @Harvard SEAS is giving a talk at 2021 APS (virtual) on the pattern-energentics project: <a href="https://meetings.aps.org/Meeting/MAR21/Session/M11.9">(Session M11) Mechanics of Cells and Tissues III</a>.
