@@ -19,6 +19,8 @@ For a physicist, the <a href="https://www.pnas.org/doi/10.1073/pnas.2104191118#s
 
 Jinghui is a physicist working at the interface of soft matter physics and developmental biology, investigating how nonlinear, multiscale biological signaling events orchestrate cell morphing and tissue regeneration. She is currently an MSCA Postdoctoral Researcher at the Max Planck Institute of Molecular Cell Biology and Genetics and the Physics of Life Cluster of Excellence at TU Dresden, where she characterizes and interprets bioelectric tissue responses following ultrafast laser injury and during regeneration in larval zebrafish. During her PhD in Physics at the Massachusetts Institute of Technology, she developed synthetic cells with graded and tunable responses to light by controlled amplification of nonlinearity for an endogenous chemomechanical signal transduction circuit. 
 
+<br><br>
+
 In 2027, she will join the Center for Interdisciplinary Studies at Westlake University as an assistant professor. There, she and her team will combine an all-optical physiology platform, nonequilibrium physics models, and imaging-based scientific machine learning tools to understand and engineer functional, adaptive matter that bridges natural and synthetic forms of life. 
 
 
